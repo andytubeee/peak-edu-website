@@ -1109,7 +1109,7 @@ section {
 }
 
 .pricing ul i {
-    color: #5846f9;
+    color: #1746d4;
     font-size: 18px;
     padding-right: 4px;
 }
@@ -1141,7 +1141,7 @@ section {
 }
 
 .pricing .btn-buy:hover {
-    background: linear-gradient(180deg, #349ae8 0%, #4227d8 100%);
+    background: linear-gradient(180deg, #3fa2cd 2%, #4227d8 100%);
 }
 
 .pricing .featured h3 {
