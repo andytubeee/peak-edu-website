@@ -138,7 +138,7 @@ img {
 }
 
 #header.header-scrolled, #header.header-inner-pages {
-    background: rgba(21, 145, 243, 0.8);
+    background: rgba(23, 106, 207, 0.8);
     padding: 12px 0;
 }
 
@@ -256,7 +256,7 @@ img {
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
-    color: #5846f9;
+    color: #4838de;
 }
 
 .nav-menu .drop-down > a:after {
@@ -1116,7 +1116,7 @@ section {
 
 
 .pricing ul li.package {
-    padding-bottom: 55.5px;
+    padding-bottom: 55.608px;
     font-size: 20px;
 }
 
