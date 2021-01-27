@@ -814,7 +814,6 @@ section {
 }
 
 
-
 /*--------------------------------------------------------------
 # Features
 --------------------------------------------------------------*/
@@ -1069,7 +1068,7 @@ section {
     font-weight: 400;
     margin: -20px -20px 20px -20px;
     padding: 20px 15px;
-    font-size: 16px;
+    font-size: 35px;
     font-weight: 600;
     color: #2c4964;
     background: #f8f8f8;
@@ -1104,8 +1103,25 @@ section {
     font-size: 14px;
 }
 
+.pricing ul li.grade {
+    padding-bottom: 0px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.pricing ul li.course {
+    padding-bottom: 11.5px;
+    font-size: 15px;
+}
+
+
+.pricing ul li.package {
+    padding-bottom: 55.5px;
+    font-size: 20px;
+}
+
 .pricing ul li {
-    padding-bottom: 16px;
+    padding-bottom: 20px;
 }
 
 .pricing ul i {
@@ -1525,7 +1541,7 @@ section {
     }
 }
 
-img.map-image{
+img.map-image {
     border: 4px solid #0a58ca;
     width: 638px;
     margin-bottom: -30px;
