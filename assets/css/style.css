@@ -819,7 +819,7 @@ section {
 # Features
 --------------------------------------------------------------*/
 .features .icon-box h4 {
-    font-size: 20px;
+    font-size: 40px;
     font-weight: 700;
     margin: 5px 0 10px 60px;
 }
@@ -831,7 +831,7 @@ section {
 }
 
 .features .icon-box p {
-    font-size: 15px;
+    font-size: 25px;
     color: #848484;
     margin-left: 60px;
 }
