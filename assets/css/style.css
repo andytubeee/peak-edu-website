@@ -1120,6 +1120,10 @@ section {
     font-size: 15px;
 }
 
+.pricing ul li.major-sub {
+    font-weight: bolder;
+}
+
 
 .pricing ul li.package {
     padding-bottom: 55.608px;
@@ -1715,3 +1719,4 @@ img.map-image {
     color: #fff;
     text-decoration: none;
 }
+
