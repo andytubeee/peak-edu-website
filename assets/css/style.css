@@ -9,12 +9,12 @@ body {
 }
 
 a {
-    color: #5846f9;
+    color: #4b6eec;
     text-decoration: none;
 }
 
 a:hover {
-    color: #8577fb;
+    color: #1c49c6;
     text-decoration: none;
 }
 
@@ -1195,8 +1195,11 @@ section {
     background: linear-gradient(42deg, #349ae8 0%, #271ccb 100%);
 }
 
+
+
 .faq .section-title h2, .faq .section-title p {
     color: #fff;
+    font-size: 25px;
 }
 
 .faq .section-title h2::after {
