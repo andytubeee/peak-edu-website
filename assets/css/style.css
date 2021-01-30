@@ -1195,11 +1195,15 @@ section {
     background: linear-gradient(42deg, #349ae8 0%, #271ccb 100%);
 }
 
+.faq .section-title h2 {
+    color: #fff;
+    font-size: 40px;
+}
 
 
 .faq .section-title h2, .faq .section-title p {
     color: #fff;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 .faq .section-title h2::after {
