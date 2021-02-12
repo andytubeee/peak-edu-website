@@ -821,6 +821,12 @@ section {
 
 .services .row button{
     background: #467ff9;
+    transition: all ease-in-out 500ms;
+}
+
+.services .row button:hover{
+    background: #2A30CF;
+    letter-spacing: 10px;
 }
 
 
