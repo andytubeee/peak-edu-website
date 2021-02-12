@@ -820,6 +820,7 @@ section {
 }
 
 .services .row button{
+    font-size: 20px;
     background: #467ff9;
     transition: all ease-in-out 500ms;
 }
