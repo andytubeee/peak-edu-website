@@ -819,6 +819,10 @@ section {
     fill: #11dbcf;
 }
 
+.services .row button{
+    background: #467ff9;
+}
+
 
 /*--------------------------------------------------------------
 # Features
