@@ -1717,7 +1717,7 @@ img.map-image {
 }
 
 #footer .social-links a {
-    font-size: 18px;
+    font-size: 38px;
     display: inline-block;
     background: rgba(255, 255, 255, 0.1);
     color: #fff;
@@ -1726,8 +1726,8 @@ img.map-image {
     margin-right: 4px;
     border-radius: 50%;
     text-align: center;
-    width: 36px;
-    height: 36px;
+    width: 56px;
+    height: 56px;
     transition: 0.3s;
 }
 
