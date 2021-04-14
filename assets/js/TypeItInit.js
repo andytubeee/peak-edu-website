@@ -1,4 +1,4 @@
-$(function(){
+document.addEventListener('DOMContentLoaded', function () {
     setTimeout(() => {
         new TypeIt("#hero-title-h1", {
             strings: ["Better Learning", "Experience With", "Peak Education"],
@@ -20,5 +20,5 @@ $(function(){
                 });
             })
             .go();
-    }, 1100)
-})
+    }, 1000)
+}, false);
