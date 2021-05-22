@@ -1075,7 +1075,7 @@ section {
     padding: 20px;
     background: #fff;
     text-align: center;
-    border-radius: 5px;
+    border-radius: 10px;
     position: relative;
     overflow: hidden;
     box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
@@ -1127,7 +1127,7 @@ section {
 }
 
 .pricing ul li.course {
-    padding-bottom: 11.5px;
+    padding-bottom: 14.2px;
     font-size: 15px;
 }
 
