@@ -238,7 +238,7 @@ img {
   display: block;
   position: absolute;
   left: 22px;
-  top: calc(100% + 30px);
+  top: calc(100% + 10px);
   z-index: 99;
   opacity: 0;
   visibility: hidden;
@@ -269,7 +269,7 @@ img {
 .nav-menu .drop-down ul a:hover,
 .nav-menu .drop-down ul .active > a,
 .nav-menu .drop-down ul li:hover > a {
-  color: #4838de;
+  color: #3D77E7;
 }
 
 .nav-menu .drop-down > a:after {
@@ -1113,7 +1113,6 @@ section {
 .pricing .box.courses-box ul {
   overflow-y: scroll;
   height: 600px;
-  border: 1px solid;
 }
 
 .pricing h3 {
