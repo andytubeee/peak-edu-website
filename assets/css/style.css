@@ -888,6 +888,11 @@ section {
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
+.underconstrunction-lottie {
+  display: flex;
+  justify-content: center;
+}
+
 .testimonials .testimonial-item {
   box-sizing: content-box;
   min-height: 320px;
