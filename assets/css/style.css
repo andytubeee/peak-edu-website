@@ -1119,10 +1119,13 @@ section {
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
   height: 650px;
 }
-.pricing .box.courses-box ul {
+.pricing .box.courses-box ul.courses-ul {
   position: absolute;
   left: 50%;
-  transform: translateX(-50%);
+  top: 50%;
+  transform: translate(-50%, -50%);
+}.pricing .box.courses-box ul.courses-ul ul.sub-topics {
+  line-height: 7px;
 }
 .pricing .box.package-box ul {
   position: absolute;
@@ -1184,9 +1187,6 @@ section {
 .pricing ul li.course {
   padding-bottom: 14.2px;
   font-size: 15px;
-}
-
-.pricing ul li.major-sub {
   font-weight: bolder;
 }
 
