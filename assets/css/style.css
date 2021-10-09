@@ -760,6 +760,32 @@ section {
   font-weight: 600;
   margin: 10px 0 15px 0;
   font-size: 16px;
+  display: inline-block;
+  padding: 15px 20px;
+  position: relative;
+}
+
+.services a.team-check-out-tutor {
+  float: right;
+  font-size: 20px;
+  margin-top: 30px;
+  font-style: italic;
+}
+.services a.team-check-out-tutor:after {
+  background: none repeat scroll 0 0 transparent;
+  bottom: 0;
+  content: '';
+  display: block;
+  height: 2px;
+  right: 1.2%;
+  position: absolute;
+  background: #1491f3;
+  transition: width 0.3s ease 0s, left 0.3s ease 0s;
+  width: 0;
+}
+.services a.team-check-out-tutor:hover:after {
+  width: 17%;
+  right: 1.2%;
 }
 
 .services .icon-box h4 a {
