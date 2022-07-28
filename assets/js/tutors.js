@@ -27,15 +27,16 @@ app.component('tutor-card', {
   },
   template: `
     <div class="col-4">
-        <div class="icon-box iconbox-pink" style="height: min-content">
+        <div class="icon-box iconbox-pink" style="height: min-content" style="transition: all 300ms">
             <img class='tutor-headshot' :src="this.imagePath">
             <h4>{{name}}</h4>
             <span><strong>Specialties: </strong> {{specialties}}</span>
             <br>
             <br>
             <button @click="showBio=!showBio" class="btn mb-5">{{showBio ? "Hide" : "Show"}} Bio</button>
+            <Transition><p v-if="showBio">{{bio}}</p>
+            </Transition>
 
-            <p v-if="showBio">{{bio}}</p>
         </div>
     </div>
     `,
