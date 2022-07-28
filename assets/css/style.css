@@ -1830,3 +1830,10 @@ img.map-image {
   color: #fff;
   text-decoration: none;
 }
+
+.tutor-headshot {
+  object-fit: cover;
+  width: 230px;
+  height: 230px;
+  margin-bottom: 15px;
+}

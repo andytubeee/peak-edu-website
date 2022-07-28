@@ -28,8 +28,7 @@ app.component('tutor-card', {
   template: `
     <div class="col-4">
         <div class="icon-box iconbox-pink" style="height: min-content">
-            <img class='rounded-3' :src="this.imagePath" width="200"
-                style='margin-bottom: 100px;'>
+            <img class='rounded-3 tutor-headshot' :src="this.imagePath">
             <h4>{{name}}</h4>
             <span><strong>Specialties: </strong> {{specialties}}</span>
             <br>
