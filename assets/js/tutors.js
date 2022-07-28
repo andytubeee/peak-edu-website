@@ -10,7 +10,6 @@ let app = createApp({
     const res = await fetch('../assets/js/tutors.json');
     const data = await res.json();
     this.tutors = data;
-    console.log(this.tutors);
   },
 });
 
@@ -26,7 +25,7 @@ app.component('tutor-card', {
     };
   },
   template: `
-    <div class="col-4">
+    <div class="col-sm-7 col-lg-4">
         <div class="icon-box iconbox-pink" style="height: min-content" style="transition: all 300ms">
             <img class='tutor-headshot' :src="this.imagePath">
             <h4>{{name}}</h4>
