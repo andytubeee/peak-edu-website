@@ -47,6 +47,7 @@ input {
 
 button {
   cursor: pointer;
+  font-size: 15px !important;
 }
 
 img {

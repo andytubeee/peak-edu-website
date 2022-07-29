@@ -32,7 +32,7 @@ app.component('tutor-card', {
             <span><strong>Specialties: </strong> {{specialties}}</span>
             <br>
             <br>
-            <button @click="showBio=!showBio" class="btn mb-5">{{showBio ? "Hide" : "Show"}} Bio</button>
+            <button @click="showBio=!showBio" class="btn mb-5 text-2">{{showBio ? "Hide" : "Show"}} Bio</button>
             <Transition><p v-if="showBio">{{bio}}</p>
             </Transition>
 
