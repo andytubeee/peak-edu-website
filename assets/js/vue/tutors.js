@@ -7,7 +7,7 @@ let app = createApp({
     };
   },
   async mounted() {
-    const res = await fetch('../assets/js/tutors.json');
+    const res = await fetch('./assets/data/tutors.json');
     const data = await res.json();
     this.tutors = data;
   },
