@@ -16,7 +16,7 @@ let app = createApp({
 app.component('tutor-card', {
   props: ['name', 'specialties', 'image', 'bio'],
   created() {
-    this.imagePath = `../assets/team-pic/${this.image}`;
+    this.imagePath = `../assets/tutor-pic/${this.image}`;
   },
   data() {
     return {

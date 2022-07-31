@@ -60,6 +60,10 @@ img {
   user-drag: none;
 }
 
+.pe-pointer {
+  cursor: pointer;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   :root {
     scroll-behavior: auto;
