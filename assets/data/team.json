@@ -1,5 +1,11 @@
 [
   {
+    "name": "Tina Xu",
+    "position": "Founder & Chair of the Board",
+    "image": "Tina",
+    "bio": "Tina Xu is a grade 12 AP student at Sir John. A Macdonald Secondary School. She enjoys learning about math and sciences, and she is eager to share her knowledge with students to motivate them in their learning and achieve their academic goals. As a tutor, Tina can provide effective assistance and advice to help students improve in their fields. Outside of school, she connects with various community directors through her organization, Supportive Teens, to host and organize local events such as fundraisers. In Tina’s spare time, she loves to play tennis, badminton, basketball and hangout with her friends. She is excited to start tutoring her students!"
+  },
+  {
     "name": "Carina Chiu",
     "position": "Chief Executive Officer",
     "image": "Carina",
@@ -16,12 +22,6 @@
     "position": "Chief Technology Officer",
     "image": "Andrew",
     "bio": "Andrew is a grade 12 student at Laurel Heights Secondary School focusing on STEM programs. He is a computer science and mathematics enthusiast. He can mentor others to the best of his ability and delivers work in the fastest efficient way possible. Andrew enjoys learning new skills in the field of software engineering and machine learning. Andrew is an executive at Highlander Computer Science Club and Highlander Engineering. He has been mentoring at many hackathons with his technical abilities. As a tutor at Peak Edu, he is looking forward to bringing the best tutoring service."
-  },
-  {
-    "name": "Tina Xu",
-    "position": "Founder & Chair of the Board",
-    "image": "Tina",
-    "bio": "Tina Xu is a grade 12 AP student at Sir John. A Macdonald Secondary School. She enjoys learning about math and sciences, and she is eager to share her knowledge with students to motivate them in their learning and achieve their academic goals. As a tutor, Tina can provide effective assistance and advice to help students improve in their fields. Outside of school, she connects with various community directors through her organization, Supportive Teens, to host and organize local events such as fundraisers. In Tina’s spare time, she loves to play tennis, badminton, basketball and hangout with her friends. She is excited to start tutoring her students!"
   },
   {
     "name": "Hooman Reza Nezhad",
