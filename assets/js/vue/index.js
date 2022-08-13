@@ -35,7 +35,7 @@ app.component('team-card', {
     },
   },
   template: `
-  <div class="col-4 mb-2">
+  <div class="col-md-4 mb-2">
   <div class="icon-box iconbox-pink" style="height: auto;">
       <img class='rounded-3' :src="this.imagePath" width="250">
       <br>
