@@ -19,7 +19,7 @@ let app = createApp({
 });
 
 app.component('team-card', {
-  props: ['name', 'position', 'image', 'bio'],
+  props: ['name', 'position', 'image', 'bio', 'linkedin'],
   created() {
     this.imagePath = `../assets/team-pic/${this.image}.jpg`;
   },
@@ -40,7 +40,9 @@ app.component('team-card', {
       <img class='rounded-3' :src="this.imagePath" width="250">
       <br>
       <br>
-      <h4>{{name}}</h4>
+      <h4>
+        <a :href="this.linkedin">{{name}}</a>
+      </h4>
 
       <span><strong>{{position}}</strong></span>
       <br>
