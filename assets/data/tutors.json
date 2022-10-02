@@ -3,25 +3,45 @@
     "name": "Ethan Lim",
     "specialties": "Mathematics, Science",
     "image": "cool.png",
-    "bio": "Ethan Lim is a grade 11 AP student attending Sir John. A Macdonald Secondary School. He finds Mathematics, Physics and Computer Science very enjoyable, and consistently participates in discussions that cover these topics. He is also a computer enthusiast and tinkers with computers and machines in his free time"
+    "bio": "Ethan Lim is a grade 11 AP student attending Sir John. A Macdonald Secondary School. He finds Mathematics, Physics and Computer Science very enjoyable, and consistently participates in discussions that cover these topics. He is also a computer enthusiast and tinkers with computers and machines in his free time",
+    "pricing": {
+      "Study Companion": 18,
+      "Homework Helper": 20,
+      "Extra Coursework": 22
+    }
   },
   {
     "name": "Christine Wang",
     "specialties": "Mathematics, Science, Chinese",
     "image": "cw.png",
-    "bio": "Christine Wang is a grade 11 AP student who attends Sir John A. Macdonald Secondary School where she enjoys learning math and accounting. She is fluent in English and Chinese which helps in her role as a tutor to young students as it pertains to their language and communication development. She also does a really good job getting involved with kids because of her love to them and the wish of treating them as friends. In addition to tutoring, she has served as a volunteer in her church, translating English content for the kids. She loves dancing and enjoys extreme sports. In short, she looks forward to helping young students develop their skills and succeed in the journey of learning."
+    "bio": "Christine Wang is a grade 11 AP student who attends Sir John A. Macdonald Secondary School where she enjoys learning math and accounting. She is fluent in English and Chinese which helps in her role as a tutor to young students as it pertains to their language and communication development. She also does a really good job getting involved with kids because of her love to them and the wish of treating them as friends. In addition to tutoring, she has served as a volunteer in her church, translating English content for the kids. She loves dancing and enjoys extreme sports. In short, she looks forward to helping young students develop their skills and succeed in the journey of learning.",
+    "pricing": {
+      "Study Companion": 18,
+      "Homework Helper": 20,
+      "Extra Coursework": 22
+    }
   },
   {
     "name": "Alberto Hernandez",
     "specialties": "Mathematics, Science, French",
     "image": "Alberto.jpg",
-    "bio": "Alberto is 17 and a student at Sir John A. Macdonald Secondary School. Some of his favourite school subjects include math, science, and French. He studied French until grade 9. He speaks English, French and Spanish as he is originally from Mexico. He moved to Canada in 2010 and has been living here since. He loves to play soccer; He plays at the Academy level and also enjoys a variety of video games. He is good with younger people as He has a lot of younger cousins."
+    "bio": "Alberto is 17 and a student at Sir John A. Macdonald Secondary School. Some of his favourite school subjects include math, science, and French. He studied French until grade 9. He speaks English, French and Spanish as he is originally from Mexico. He moved to Canada in 2010 and has been living here since. He loves to play soccer; He plays at the Academy level and also enjoys a variety of video games. He is good with younger people as He has a lot of younger cousins.",
+    "pricing": {
+      "Study Companion": 18,
+      "Homework Helper": 20,
+      "Extra Coursework": 22
+    }
   },
   {
     "name": "Alice Kreinin",
     "specialties": "Mathematics, Science, French",
     "image": "alice.jpg",
-    "bio": "Alice Kreinin is a grade 12 student at Sir John A. Macdonald Secondary School. She tutors English and enjoys all things involving reading and writing. Alice is also available to tutor French, science, and math. At school, she is the founder and Editor-In-Chief of her school newspaper, and she hopes to pursue a career in publishing or journalism. She is also very interested in the arts, from theatre and dance to drawing and painting. Outside of school, she spends her time doing ballet and voice lessons, as well as volunteering for the local library. She looks forward to helping your children excel in their education!"
+    "bio": "Alice Kreinin is a grade 12 student at Sir John A. Macdonald Secondary School. She tutors English and enjoys all things involving reading and writing. Alice is also available to tutor French, science, and math. At school, she is the founder and Editor-In-Chief of her school newspaper, and she hopes to pursue a career in publishing or journalism. She is also very interested in the arts, from theatre and dance to drawing and painting. Outside of school, she spends her time doing ballet and voice lessons, as well as volunteering for the local library. She looks forward to helping your children excel in their education!",
+    "pricing": {
+      "Study Companion": 18,
+      "Homework Helper": 20,
+      "Extra Coursework": 22
+    }
   },
   {
     "name": "Andrew Yang",
@@ -38,19 +58,34 @@
     "name": "Jasmine Schneider",
     "specialties": "Mathematics, Science",
     "image": "JS.jpg",
-    "bio": "Jasmine Schneider is a grade 10 pre-IB student at Cameron Heights Collegiate Institute. Today she has a strong passion for physics and math, but as a child, she actually disliked both of those subjects. Hence, she hopes to help other students discover a passion for STEM, or at the very least make what might now be an unpleasant subject, one that they can be confident in and enjoy. Jasmine loves to participate in science fairs and is currently working on a biochar water remediation project. She has experience tutoring high school students in the Khan Academy U.S. math curriculum and has earned tutoring certificates in units from algebra 1 to AP calculus. She looks forward to helping students find success in their academics!"
+    "bio": "Jasmine Schneider is a grade 10 pre-IB student at Cameron Heights Collegiate Institute. Today she has a strong passion for physics and math, but as a child, she actually disliked both of those subjects. Hence, she hopes to help other students discover a passion for STEM, or at the very least make what might now be an unpleasant subject, one that they can be confident in and enjoy. Jasmine loves to participate in science fairs and is currently working on a biochar water remediation project. She has experience tutoring high school students in the Khan Academy U.S. math curriculum and has earned tutoring certificates in units from algebra 1 to AP calculus. She looks forward to helping students find success in their academics!",
+    "pricing": {
+      "Study Companion": 16,
+      "Homework Helper": 18,
+      "Extra Coursework": 20
+    }
   },
   {
     "name": "Stacey Kang",
     "specialties": "Mathematics, Science, Korean",
     "image": "Chanyeong Kang.png",
-    "bio": "Stacey Kang is a First-Year Medical Sciences student at Western University. She is interested in teaching mathematics and science - not limited to a specific grade but mainly (Advanced) Functions, Data Management, Calculus and Vectors, and Biology. She has various academic and contest awards achieved from these subject areas. She wishes to go into medical school in the future to achieve her dream as a surgeon. She speaks fluent Korean, English, and Chinese (Mandarin). She is also very eager to teach Korean to those who are interested in learning a new language/culture or enjoy K-pop/K-dramas. She is looking forward to meeting new people and delivering all her knowledge to the students with accurate information."
+    "bio": "Stacey Kang is a First-Year Medical Sciences student at Western University. She is interested in teaching mathematics and science - not limited to a specific grade but mainly (Advanced) Functions, Data Management, Calculus and Vectors, and Biology. She has various academic and contest awards achieved from these subject areas. She wishes to go into medical school in the future to achieve her dream as a surgeon. She speaks fluent Korean, English, and Chinese (Mandarin). She is also very eager to teach Korean to those who are interested in learning a new language/culture or enjoy K-pop/K-dramas. She is looking forward to meeting new people and delivering all her knowledge to the students with accurate information.",
+    "pricing": {
+      "Study Companion": 18,
+      "Homework Helper": 20,
+      "Extra Coursework": 22
+    }
   },
   {
     "name": "Nethara De Silva",
     "specialties": "Mathematics, Science",
     "image": "Nethara.png",
-    "bio": "Nethara is a grade 12 student attending Sir John A Macdoald Public School in Ontario. The subjects that she enjoys most are psychology, chemistry, business and math. She is currently involved at her school’s DECA club and has a strong academic background. She's also currently enrolled in SHSM for business and is also the media manager executive at her school's Key Club which helps kids get their volunteering hours. She's a part of several clubs at school including mathletes and cs club. She's been consistently volunteering to tutor kids for over half a year now. Some of her interests include coding, drawing, shopping with friends and watching movies. She hopes to pursue a career that involves math and business in the future."
+    "bio": "Nethara is a grade 12 student attending Sir John A Macdoald Public School in Ontario. The subjects that she enjoys most are psychology, chemistry, business and math. She is currently involved at her school’s DECA club and has a strong academic background. She's also currently enrolled in SHSM for business and is also the media manager executive at her school's Key Club which helps kids get their volunteering hours. She's a part of several clubs at school including mathletes and cs club. She's been consistently volunteering to tutor kids for over half a year now. Some of her interests include coding, drawing, shopping with friends and watching movies. She hopes to pursue a career that involves math and business in the future.",
+    "pricing": {
+      "Study Companion": 18,
+      "Homework Helper": 20,
+      "Extra Coursework": 22
+    }
   },
   {
     "name": "Neha Gupta",
@@ -67,49 +102,89 @@
     "name": "Sujash Nayak",
     "specialties": "Mathematics, Science, CS",
     "image": "Sujash.jpg",
-    "bio": "Sujash is a grade 11 gifted student at the Woodlands Secondary school. He enjoys studying math in all forms, his favourite part about math is using it to understand the world around him. He possesses strong problem-solving and critical thinking skills. Sujash has a lot of experience with math as a participant in many math contests, and he is also a member of the school robotics team. He already has volunteer experience teaching younger children. With this experience, Sujash wishes to guide students in their journey to improve their academics and become better thinkers. "
+    "bio": "Sujash is a grade 11 gifted student at the Woodlands Secondary school. He enjoys studying math in all forms, his favourite part about math is using it to understand the world around him. He possesses strong problem-solving and critical thinking skills. Sujash has a lot of experience with math as a participant in many math contests, and he is also a member of the school robotics team. He already has volunteer experience teaching younger children. With this experience, Sujash wishes to guide students in their journey to improve their academics and become better thinkers. ",
+    "pricing": {
+      "Study Companion": 16,
+      "Homework Helper": 18,
+      "Extra Coursework": 20
+    }
   },
   {
     "name": "Sonya Yusim",
     "specialties": "Mathematics, French",
     "image": "Sonya.jpg",
-    "bio": "Sonya Yusim is a grade 11 student attending Waterloo Oxford Secondary School. Sonya enjoys learning other cultures and languages especially french. Sonya loves to find common ground with her students so she can communicate with her students better. Sonya is pursuing french throughout her high school career and hopes one day to create a living out of the language. Sonya continues to play sports and hopes that extracurricular clubs will be open in school so she can join the ASL club. Some other interests Sonya enjoys are sports, photography, baking, painting, and travelling. Sonya can wait to help students build on the foundation of learning in a unique and fun way."
+    "bio": "Sonya Yusim is a grade 11 student attending Waterloo Oxford Secondary School. Sonya enjoys learning other cultures and languages especially french. Sonya loves to find common ground with her students so she can communicate with her students better. Sonya is pursuing french throughout her high school career and hopes one day to create a living out of the language. Sonya continues to play sports and hopes that extracurricular clubs will be open in school so she can join the ASL club. Some other interests Sonya enjoys are sports, photography, baking, painting, and travelling. Sonya can wait to help students build on the foundation of learning in a unique and fun way.",
+    "pricing": {
+      "Study Companion": 16,
+      "Homework Helper": 18,
+      "Extra Coursework": 20
+    }
   },
   {
     "name": "Aviral Gupta",
     "specialties": "Mathematics, Science",
     "image": "AviralG.jpg",
-    "bio": "Aviral Gupta is a grade 12 student at Sir John A Macdonald Secondary School. Usually, Aviral can be found playing sports outside whether it be summer or winter. He loves to play soccer, ultimate frisbee, and basketball; he loves to swim and enjoys skiing in the winter. He is also really interested in aviation and aerospace and hopes to become a pilot. Aviral also enjoys playing the drums and is learning to play guitar. He really enjoys mathematics and science in school, along with the other STEM subjects. However, he likes to change STEM to STEAM, which includes the arts (he loves playing music) as well. He enjoys meeting new students and helps them develop a passion for STEAM too!"
+    "bio": "Aviral Gupta is a grade 12 student at Sir John A Macdonald Secondary School. Usually, Aviral can be found playing sports outside whether it be summer or winter. He loves to play soccer, ultimate frisbee, and basketball; he loves to swim and enjoys skiing in the winter. He is also really interested in aviation and aerospace and hopes to become a pilot. Aviral also enjoys playing the drums and is learning to play guitar. He really enjoys mathematics and science in school, along with the other STEM subjects. However, he likes to change STEM to STEAM, which includes the arts (he loves playing music) as well. He enjoys meeting new students and helps them develop a passion for STEAM too!",
+    "pricing": {
+      "Study Companion": 18,
+      "Homework Helper": 20,
+      "Extra Coursework": 22
+    }
   },
   {
     "name": "Minseo Kwon",
     "specialties": "Mathematics, Computer Science",
     "image": "mk.png",
-    "bio": "This is Minseo Kwon, he is a Grade 12 AP student at Sir John A. Macdonald. He really enjoys learning about computer science and math. When he was 10 he used to spend hours on a laptop playing around with scratch and making small games, learning to program with simple blocks taught him algorithms and maths that he still uses to this day. His dad is a software engineer and his dad is also very passionate about computer science and maths. His dad cultivated a seed of computer science and maths that bloomed into this amazing curiosity he has for computer science and maths. He wishes you all the best and he looks forward to sharing his appreciation for computer science and maths with his students!"
+    "bio": "This is Minseo Kwon, he is a Grade 12 AP student at Sir John A. Macdonald. He really enjoys learning about computer science and math. When he was 10 he used to spend hours on a laptop playing around with scratch and making small games, learning to program with simple blocks taught him algorithms and maths that he still uses to this day. His dad is a software engineer and his dad is also very passionate about computer science and maths. His dad cultivated a seed of computer science and maths that bloomed into this amazing curiosity he has for computer science and maths. He wishes you all the best and he looks forward to sharing his appreciation for computer science and maths with his students!",
+    "pricing": {
+      "Study Companion": 18,
+      "Homework Helper": 20,
+      "Extra Coursework": 22
+    }
   },
   {
     "name": "Elaine Wen",
     "specialties": "Mathematics, Science, French",
     "image": "wink.png",
-    "bio": "Elaine Wen is a grade 10 AP student at Cambridge Rindge and Latin School. She tutors English, Math, and French, as she lived in France for a year. Having been a tutor and assistant instructor in different fields before, she loves working with people to cater to their personal needs and help them excel. Elaine is involved in many extracurricular such as Debate, Model UN, Theatre, and Student Government and she is the president of the Pan-Asian Union as well as a founding member of the Students of Color Coalition at her school. She works for the Cambridge City Council and intends to pursue a career in the law field. In her free time, she loves hanging out with friends, playing volleyball, and dancing. She is excited to meet everyone and hopes to pass on her knowledge and experiences to all of you!"
+    "bio": "Elaine Wen is a grade 10 AP student at Cambridge Rindge and Latin School. She tutors English, Math, and French, as she lived in France for a year. Having been a tutor and assistant instructor in different fields before, she loves working with people to cater to their personal needs and help them excel. Elaine is involved in many extracurricular such as Debate, Model UN, Theatre, and Student Government and she is the president of the Pan-Asian Union as well as a founding member of the Students of Color Coalition at her school. She works for the Cambridge City Council and intends to pursue a career in the law field. In her free time, she loves hanging out with friends, playing volleyball, and dancing. She is excited to meet everyone and hopes to pass on her knowledge and experiences to all of you!",
+    "pricing": {
+      "Study Companion": 16,
+      "Homework Helper": 18,
+      "Extra Coursework": 20
+    }
   },
   {
     "name": "Sina Nikoo",
     "specialties": "Mathematics, Science, French",
     "image": "cool.png",
-    "bio": "Sina Nikoo is a grade 10 student at Waterloo Collegiate Institute. He enjoys subjects such as mathematics, science, and French, and loves expanding his knowledge through various challenges and competitions. Outside of school, Sina is a longtime piano player, sports lover, and computer building enthusiast. Having two younger siblings that he does a lot of one-on-one teaching with, he has developed a strong sense of patience and the ability to create a unique learning method for students, allowing them to learn in a way that they are comfortable with. He looks forward to meeting new people and hopes to be able to guide them on their learning journey."
+    "bio": "Sina Nikoo is a grade 10 student at Waterloo Collegiate Institute. He enjoys subjects such as mathematics, science, and French, and loves expanding his knowledge through various challenges and competitions. Outside of school, Sina is a longtime piano player, sports lover, and computer building enthusiast. Having two younger siblings that he does a lot of one-on-one teaching with, he has developed a strong sense of patience and the ability to create a unique learning method for students, allowing them to learn in a way that they are comfortable with. He looks forward to meeting new people and hopes to be able to guide them on their learning journey.",
+    "pricing": {
+      "Study Companion": 16,
+      "Homework Helper": 18,
+      "Extra Coursework": 20
+    }
   },
   {
     "name": "Nathan Kim",
     "specialties": "Mathematics, Science",
     "image": "Nathan.png",
-    "bio": "Nathan Kim is a Grade 10 pre-AP student at Resurrection Highschool where he is enrolled in different mathematics and science courses. He is a competitive athlete and enjoys playing the piano. In the summer, he enjoys fishing and hiking at his family cottage. Having a younger sister with special needs has enabled him to develop patience and empathy, which will help him be an effective tutor. He has completed multiple levels of Kumon (level J), and is eager to employ the tools he has learned to teach younger students."
+    "bio": "Nathan Kim is a Grade 10 pre-AP student at Resurrection Highschool where he is enrolled in different mathematics and science courses. He is a competitive athlete and enjoys playing the piano. In the summer, he enjoys fishing and hiking at his family cottage. Having a younger sister with special needs has enabled him to develop patience and empathy, which will help him be an effective tutor. He has completed multiple levels of Kumon (level J), and is eager to employ the tools he has learned to teach younger students.",
+    "pricing": {
+      "Study Companion": 16,
+      "Homework Helper": 18,
+      "Extra Coursework": 20
+    }
   },
   {
     "name": "Derek Sheen",
     "specialties": "Mathematics, Computer Science",
     "image": "Derek.jpg",
-    "bio": "Derek is a grade 11 student at Sir John A. Macdonald Secondary School. He has a deep interest in STEM, as he is interested in pursuing a career in Computer Science. Derek is an executive in his school’s Computer Science and Design Club. He is also an active member of the Electric Car, Engineering, and Math Club. Derek has an active learning mindset and is always open to learning new skills in the field. He first started coding when creating mobile apps using Android Development. Today, he uses many other technologies, such as Python, Java, HTML/CSS, and JavaScript. Derek has also been solving math problems daily since he was 5."
+    "bio": "Derek is a grade 11 student at Sir John A. Macdonald Secondary School. He has a deep interest in STEM, as he is interested in pursuing a career in Computer Science. Derek is an executive in his school’s Computer Science and Design Club. He is also an active member of the Electric Car, Engineering, and Math Club. Derek has an active learning mindset and is always open to learning new skills in the field. He first started coding when creating mobile apps using Android Development. Today, he uses many other technologies, such as Python, Java, HTML/CSS, and JavaScript. Derek has also been solving math problems daily since he was 5.",
+    "pricing": {
+      "Study Companion": 16,
+      "Homework Helper": 18,
+      "Extra Coursework": 20
+    }
   },
   {
     "name": "Vitoria Wortman",
@@ -126,37 +201,67 @@
     "name": "Fan Yang",
     "specialties": "Mathematics, Science",
     "image": "Fan.jpg",
-    "bio": "Fan Yang is a Grade 12/IB2 student currently attending Colonel By Secondary School, where he is most interested in subjects such as Math, Physics, Chemistry and Computer Science, and active in various school communities including but not limited to Chess Club, Computing Club, Junior Achievement Entrepreneurship Program, and Model UN. Outside of school, he is involved in a number of youth-led organizations that aim to inspire fellow youth and is a tutor for Frontier College. He enjoys competing in chess, math and coding competitions of all sizes, as well as maintaining a healthy dose of running when possible. He recognizes the difference a proactive education can make, and hopes to assist his students in realizing its importance!"
+    "bio": "Fan Yang is a Grade 12/IB2 student currently attending Colonel By Secondary School, where he is most interested in subjects such as Math, Physics, Chemistry and Computer Science, and active in various school communities including but not limited to Chess Club, Computing Club, Junior Achievement Entrepreneurship Program, and Model UN. Outside of school, he is involved in a number of youth-led organizations that aim to inspire fellow youth and is a tutor for Frontier College. He enjoys competing in chess, math and coding competitions of all sizes, as well as maintaining a healthy dose of running when possible. He recognizes the difference a proactive education can make, and hopes to assist his students in realizing its importance!",
+    "pricing": {
+      "Study Companion": 18,
+      "Homework Helper": 20,
+      "Extra Coursework": 22
+    }
   },
   {
     "name": "Aileen Jun",
     "specialties": "English, Science",
     "image": "cool.png",
-    "bio": "Aileen Jun is a grade 11 student at Sir John A. Macdonald where she is currently taking French, English, Science and food and nutrition. Her favourite subject in school is English and math. She is currently interested in studying law. She has experience with younger kids in the past as she was a volunteer. Additionally, she has a younger brother who is currently in grade 6 that she helps with at home. In her free time, she likes to read fictional books and listen to music. She is eager to meet new people and help younger kids with math with the tools she has learned from her past experiences."
+    "bio": "Aileen Jun is a grade 11 student at Laurel Heights Secondary School where she is currently taking French, English, Science and food and nutrition. Her favourite subject in school is English and math. She is currently interested in studying law. She has experience with younger kids in the past as she was a volunteer. Additionally, she has a younger brother who is currently in grade 6 that she helps with at home. In her free time, she likes to read fictional books and listen to music. She is eager to meet new people and help younger kids with math with the tools she has learned from her past experiences.",
+    "pricing": {
+      "Study Companion": 16,
+      "Homework Helper": 18,
+      "Extra Coursework": 20
+    }
   },
   {
     "name": "Rehma Ashraf",
     "specialties": "Mathematics, Computer Science",
     "image": "wink.png",
-    "bio": "Rehma Ashraf is a sophomore student majoring in computer science and minoring in mathematics at Wilfrid Laurier University. She completed high school at Paul Laurence Dunbar in Lexington, Kentucky. Because of her experience in learning in two different countries, Rehma understands both the Canadian and the U.S. educational curricula. She has been tutoring students in English, mathematics, geometry, Calculus, science, and Arabic reading for 3-4 years. Within these years, Rehma has dedicated her time to tutoring students with special needs and swiftly adapts to the learning environment each student requires to succeed and develop. She strongly believes in equal education and strives to make every child learn and develop to their highest potential."
+    "bio": "Rehma Ashraf is a sophomore student majoring in computer science and minoring in mathematics at Wilfrid Laurier University. She completed high school at Paul Laurence Dunbar in Lexington, Kentucky. Because of her experience in learning in two different countries, Rehma understands both the Canadian and the U.S. educational curricula. She has been tutoring students in English, mathematics, geometry, Calculus, science, and Arabic reading for 3-4 years. Within these years, Rehma has dedicated her time to tutoring students with special needs and swiftly adapts to the learning environment each student requires to succeed and develop. She strongly believes in equal education and strives to make every child learn and develop to their highest potential.",
+    "pricing": {
+      "Study Companion": 18,
+      "Homework Helper": 20,
+      "Extra Coursework": 22
+    }
   },
   {
     "name": "Ismael Elkadri",
     "specialties": "French",
     "image": "Ismael.jpg",
-    "bio": "Ismael is a grade 10 student at Sir John A. Macdonald who is kind, thoughtful, and has a passion for helping students thrive at their highest potential. He is positive and patient with students, ensuring that they understand and feel comfortable in the learning process. He is also fluent in three languages such as French (his mother tongue), English and Arabic. Ismael thrives on maintaining a positive environment while also having fun. In his free time, Ismael likes to read and play video games, as well as walk his dog, Chance. Ismael intends on pursuing a career helping others."
+    "bio": "Ismael is a grade 10 student at Laurel Heights Secondary School who is kind, thoughtful, and has a passion for helping students thrive at their highest potential. He is positive and patient with students, ensuring that they understand and feel comfortable in the learning process. He is also fluent in three languages such as French (his mother tongue), English and Arabic. Ismael thrives on maintaining a positive environment while also having fun. In his free time, Ismael likes to read and play video games, as well as walk his dog, Chance. Ismael intends on pursuing a career helping others.",
+    "pricing": {
+      "Study Companion": 16,
+      "Homework Helper": 18,
+      "Extra Coursework": 20
+    }
   },
   {
     "name": "Victor Feng",
     "specialties": "Mathematics, Computer Science",
     "image": "Victor.jpg",
-    "bio": "Victor Feng is a grade 10 student at Highlander secondary school who has an interest in STEM. He has gotten into the Honor Roll for many math and CS contests, such as the Pascal contest and the CCC contest. He is an executive in his school's Design club and Aerospace club, and an active participant in his school's Engineering club, and Electric vehicle club. He has had previous experience tutoring and is capable of working with students of all ages. He enjoys tinkering with electronics and playing the piano in his spare time. He recognizes the importance a good tutor can make in someone's career, being tutored himself before. He is also always on a journey of constant learning and has created content such as articles and videos to better share what he has learned with the rest of the world."
+    "bio": "Victor Feng is a grade 10 student at Highlander secondary school who has an interest in STEM. He has gotten into the Honor Roll for many math and CS contests, such as the Pascal contest and the CCC contest. He is an executive in his school's Design club and Aerospace club, and an active participant in his school's Engineering club, and Electric vehicle club. He has had previous experience tutoring and is capable of working with students of all ages. He enjoys tinkering with electronics and playing the piano in his spare time. He recognizes the importance a good tutor can make in someone's career, being tutored himself before. He is also always on a journey of constant learning and has created content such as articles and videos to better share what he has learned with the rest of the world.",
+    "pricing": {
+      "Study Companion": 16,
+      "Homework Helper": 18,
+      "Extra Coursework": 20
+    }
   },
   {
     "name": "Krish Shah",
     "specialties": "Mathematics, Computer Science",
     "image": "krish.jpg",
-    "bio": "Krish is a grade 12 student at Centennial Collegiate Vocational Institute. He has studied under and is well conversant in the Ontario and Cambridge IGCSE curriculums. Knowing firsthand the challenges of pursuing an education in an unfamiliar environment, he is passionate about helping others maintain a positive relationship with their academics. He is interested in math and computer science and looks forward to pursuing a post-secondary education in STEM. Krish is an executive at his school's Math Club and an active member of the Computer Science club. Being interested in spreading computer science literacy, Krish has experience teaching students how to code and hopes to continue supporting students in the future! He hopes to see you succeed and thrive!"
+    "bio": "Krish is a grade 12 student at Centennial Collegiate Vocational Institute. He has studied under and is well conversant in the Ontario and Cambridge IGCSE curriculums. Knowing firsthand the challenges of pursuing an education in an unfamiliar environment, he is passionate about helping others maintain a positive relationship with their academics. He is interested in math and computer science and looks forward to pursuing a post-secondary education in STEM. Krish is an executive at his school's Math Club and an active member of the Computer Science club. Being interested in spreading computer science literacy, Krish has experience teaching students how to code and hopes to continue supporting students in the future! He hopes to see you succeed and thrive!",
+    "pricing": {
+      "Study Companion": 18,
+      "Homework Helper": 20,
+      "Extra Coursework": 22
+    }
   },
   {
     "name": "Olivia Bhowmik",
@@ -173,12 +278,22 @@
     "name": "YunFeng Zhang",
     "specialties": "Mathematics, Computer Science",
     "image": "feng.jpg",
-    "bio": "Feng Zhang is a Grade 11 AP student at Laurel Heights Secondary School. He has a passion for many STEM subjects, and some of his favourite subjects in school include Physics, Chemistry, Computer Science and Math. Feng has achieved various awards in these subjects, including certificates of distinction for the Canadian Senior Mathematics Competition and the Canadian Open Mathematics Competition. Outside of school, he loves participating in Hackathons, which are 24 to 48 hour-long coding events. He has a passion for tutoring and has volunteered to tutor STEM subjects for up to half a year. He hopes to pursue a career in Computer Science in the future. Feng is looking forward to helping students find success in their education!"
+    "bio": "Feng Zhang is a Grade 11 AP student at Laurel Heights Secondary School. He has a passion for many STEM subjects, and some of his favourite subjects in school include Physics, Chemistry, Computer Science and Math. Feng has achieved various awards in these subjects, including certificates of distinction for the Canadian Senior Mathematics Competition and the Canadian Open Mathematics Competition. Outside of school, he loves participating in Hackathons, which are 24 to 48 hour-long coding events. He has a passion for tutoring and has volunteered to tutor STEM subjects for up to half a year. He hopes to pursue a career in Computer Science in the future. Feng is looking forward to helping students find success in their education!",
+    "pricing": {
+      "Study Companion": 16,
+      "Homework Helper": 18,
+      "Extra Coursework": 20
+    }
   },
   {
     "name": "Mona Eletr",
     "specialties": "English, Science, Mathematics",
     "image": "mona.jpg",
-    "bio": "Mona Eletr is a grade 10 high school student at Sir John A. Macdonald S.S. She’s highly passionate about business, CS and language arts. She enjoys these topics because they allow her to express her personality and creative thinking. Having been born in Egypt and moving to Canada at a young age, she knows the struggle of learning a new language or subject. This experience motivates her to assist students that are going through the same struggles she went through. She loves tutoring French as she has taught it before, but also enjoys teaching English and Math. In her free time, she enjoys video editing, photography, playing tennis, and reading thriller novels. She hopes to be able to pursue a career in computer science or architecture."
+    "bio": "Mona Eletr is a grade 10 high school student at Sir John A. Macdonald S.S. She’s highly passionate about business, CS and language arts. She enjoys these topics because they allow her to express her personality and creative thinking. Having been born in Egypt and moving to Canada at a young age, she knows the struggle of learning a new language or subject. This experience motivates her to assist students that are going through the same struggles she went through. She loves tutoring French as she has taught it before, but also enjoys teaching English and Math. In her free time, she enjoys video editing, photography, playing tennis, and reading thriller novels. She hopes to be able to pursue a career in computer science or architecture.",
+    "pricing": {
+      "Study Companion": 16,
+      "Homework Helper": 18,
+      "Extra Coursework": 20
+    }
   }
 ]
