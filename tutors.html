@@ -99,7 +99,8 @@
                     <div class="container">
                         <div class="row">
                             <tutor-card v-for="(tutor, index) in tutors" :key="index" :name="tutor.name"
-                                :specialties="tutor.specialties" :bio="tutor.bio" :image="tutor.image" />
+                                :specialties="tutor.specialties" :bio="tutor.bio" :image="tutor.image"
+                                :pricing="tutor.pricing" />
                         </div>
                     </div>
                 </div>
@@ -211,6 +212,8 @@
     <script src="../assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
     <script src="../assets/vendor/venobox/venobox.min.js"></script>
     <script src="../assets/vendor/aos/aos.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
 
     <!-- Template Main JS File -->
     <script src="../assets/js/main.js"></script>

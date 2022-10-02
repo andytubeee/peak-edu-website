@@ -29,11 +29,13 @@ app.component('team-card', {
       showBio: false,
     };
   },
+ 
   computed: {
     bioIco() {
       return this.showBio ? 'icofont-rounded-down' : 'icofont-rounded-right';
     },
   },
+
   template: `
   <div class="col-md-4 mb-2">
   <div class="icon-box iconbox-pink" style="height: auto;">

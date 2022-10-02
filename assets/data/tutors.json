@@ -24,6 +24,17 @@
     "bio": "Alice Kreinin is a grade 12 student at Sir John A. Macdonald Secondary School. She tutors English and enjoys all things involving reading and writing. Alice is also available to tutor French, science, and math. At school, she is the founder and Editor-In-Chief of her school newspaper, and she hopes to pursue a career in publishing or journalism. She is also very interested in the arts, from theatre and dance to drawing and painting. Outside of school, she spends her time doing ballet and voice lessons, as well as volunteering for the local library. She looks forward to helping your children excel in their education!"
   },
   {
+    "name": "Andrew Yang",
+    "specialties": "Mathematics, Computer Science, Chinese",
+    "image": "Andrew.jpg",
+    "bio": "Andrew is a grade 12 student at Laurel Heights Secondary School focusing on STEM programs. He is a computer science and mathematics enthusiast. He can mentor others to the best of his ability and delivers work in the fastest efficient way possible. Andrew enjoys learning new skills in the field of software engineering and machine learning. Andrew is an executive at Highlander Computer Science Club and Highlander Engineering. He has been mentoring at many hackathons with his technical abilities. As a tutor at Peak Edu, he is looking forward to bringing the best tutoring service.",
+    "pricing": {
+      "Study Companion": 25,
+      "Homework Helper": 25,
+      "Extra Coursework": 28
+    }
+  },
+  {
     "name": "Jasmine Schneider",
     "specialties": "Mathematics, Science",
     "image": "JS.jpg",
@@ -45,7 +56,12 @@
     "name": "Neha Gupta",
     "specialties": "Mathematics, Science",
     "image": "NehaG.png",
-    "bio": "Neha Gupta is a Grade 12 IB Diploma Candidate at Westdale Secondary School in Hamilton. She is a student passionate about science and STEM engagement and reflects this passion in her outreach activities (carrying out yearly research, international and national level science fair participation, and founding two science-based youth organizations). Her subject passions are Math, English and Science. As a TEDx speaker, she uses her passion for speaking to work to empower others through sharing and learning from each other. She loves spreading knowledge, and hopes that as a tutor at Peak Education she can engage fellow students in their learning and help nurture passion for their subject of interest!"
+    "bio": "Neha Gupta is a Grade 12 IB Diploma Candidate at Westdale Secondary School in Hamilton. She is a student passionate about science and STEM engagement and reflects this passion in her outreach activities (carrying out yearly research, international and national level science fair participation, and founding two science-based youth organizations). Her subject passions are Math, English and Science. As a TEDx speaker, she uses her passion for speaking to work to empower others through sharing and learning from each other. She loves spreading knowledge, and hopes that as a tutor at Peak Education she can engage fellow students in their learning and help nurture passion for their subject of interest!",
+    "pricing": {
+      "Study Companion": 20,
+      "Homework Helper": 20,
+      "Extra Coursework": 20
+    }
   },
   {
     "name": "Sujash Nayak",
@@ -99,7 +115,12 @@
     "name": "Vitoria Wortman",
     "specialties": "Mathematics, English, French",
     "image": "Vitoria Wortman.jpg",
-    "bio": "Vitoria Wortman is a grade 12 student attending Riverview High School. She spent most of her education in Ontario and is well-versed with both the Ontario and New Brunswick curriculums. She has experience working with children from ages 7 to university students and has experience teaching ESL, English Literacy, and French. She is fluent in French, and English, and speaks Portuguese and Hebrew. She is passionate about helping others succeed in academics, having struggled in academics herself in grades 1-3. She is friendly and capable of getting through to children of all ages and helping them understand difficult concepts. She participated in the French, Social Justice, and co-founded the Spanish club at her school. She looks forward to helping you succeed!"
+    "bio": "Vitoria Wortman is a grade 12 student attending Riverview High School. She spent most of her education in Ontario and is well-versed with both the Ontario and New Brunswick curriculums. She has experience working with children from ages 7 to university students and has experience teaching ESL, English Literacy, and French. She is fluent in French, and English, and speaks Portuguese and Hebrew. She is passionate about helping others succeed in academics, having struggled in academics herself in grades 1-3. She is friendly and capable of getting through to children of all ages and helping them understand difficult concepts. She participated in the French, Social Justice, and co-founded the Spanish club at her school. She looks forward to helping you succeed!",
+    "pricing": {
+      "Study Companion": 20,
+      "Homework Helper": 25,
+      "Extra Coursework": 28
+    }
   },
   {
     "name": "Fan Yang",
@@ -141,7 +162,12 @@
     "name": "Olivia Bhowmik",
     "specialties": "English, Science, Computer Science",
     "image": "oliviab.jpg",
-    "bio": "Olivia Bhowmik is a grade 12 student who is currently attending Laurel Heights Secondary School. She specializes in assisting others with computer science, English and Science. She hopes to help others increase their confidence in academics and give them the tools they need to enjoy classes. She’s been a long-time member of her school’s DECA team and coding club. Outside of class she enjoys playing the piano, coding, reading books and hanging out with friends. In the future she hopes to become a computer scientist and is looking forward to helping students achieve their goals!"
+    "bio": "Olivia Bhowmik is a grade 12 student who is currently attending Laurel Heights Secondary School. She specializes in assisting others with computer science, English and Science. She hopes to help others increase their confidence in academics and give them the tools they need to enjoy classes. She’s been a long-time member of her school’s DECA team and coding club. Outside of class she enjoys playing the piano, coding, reading books and hanging out with friends. In the future she hopes to become a computer scientist and is looking forward to helping students achieve their goals!",
+    "pricing": {
+      "Study Companion": 15,
+      "Homework Helper": 18,
+      "Extra Coursework": 20
+    }
   },
   {
     "name": "YunFeng Zhang",
