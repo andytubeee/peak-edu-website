@@ -1198,9 +1198,10 @@ section {
   transform: translate(-50%, -50%);
 }
 .pricing .container.pricing-box {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90%;
 }
 
 .pricing h3 {
