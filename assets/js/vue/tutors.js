@@ -60,7 +60,7 @@ app.component('tutor-card', {
             <br>
             <br>
             <button @click="showBio=!showBio" class="btn mb-5 me-3 text-2">{{showBio ? "Hide" : "Show"}} Bio</button>
-            <button @click="openPricingPopup" class="btn mb-5 text-2">See Pricing </button>
+            <button @click="openPricingPopup" class="btn mb-5 text-2">See Pricing</button>
             <Transition><p v-if="showBio">{{bio}}</p>
             </Transition>
 
